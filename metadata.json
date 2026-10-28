@@ -1,0 +1,6 @@
+{
+  "name": "Hatomugi – English Learning",
+  "description": "Ứng dụng học tiếng Anh hiện đại, dễ thương, thân thiện giúp người học nâng cao từ vựng, ngữ pháp, phát âm và phản xạ qua các bài học ngắn và trò chơi tương tác thú vị.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
